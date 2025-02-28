@@ -7,7 +7,7 @@ TodoManager is a simple TypeScript class for managing a to-do list. It allows us
 ##  Features
 - Add new tasks with a **due date**
 - Mark tasks as **completed**
-- Remove tasks from the list
+- Remove tasks from the lists
 - Update task descriptions
 - Filter tasks based on completion status
 - Clear all completed tasks
